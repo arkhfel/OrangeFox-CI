@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/arkhfel/recovery_device_infinix_x695.git -b fox_11.0"
+export FOX_BRANCH="fox_12.1"
+export DT_LINK="https://github.com/arkhfel/twrp_device_infinix_x695 -b main"
 
 export DEVICE="x695"
 export OEM="infinix"
